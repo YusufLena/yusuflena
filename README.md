@@ -44,17 +44,17 @@ I'm From Bekasi, West Java Indonesia.
 - 🌱 I’m currently learning [*JavaScript*](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - 😁😁😁😁
 
-##### ⚙️Skils
+#### ⚙️Skils
 
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
-##### 🔥My Stats
+#### 🔥My Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YusufLena&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YusufLena&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+
+ ![Yusuf Lena GitHub stats](https://github-readme-stats.vercel.app/api?username=YusufLena&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YusufLena&layout=compact)
 </div>
 
-##### 🕹️Play Game With Me
+#### 🕹️Play Game With Me
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YusufLena/YusufLena/output/pacman-contribution-graph-dark.svg">
