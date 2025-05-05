@@ -50,10 +50,9 @@ I'm From Bekasi, West Java Indonesia.
 <img src= "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 
 #### 🔥My Stats
-<div align="center">
+![YusufLena GitHub stats](https://github-readme-stats.vercel.app/api?username=YusufLena&show_icons=true&theme=tokyonight)
 
-![YusufLena GitHub stats](https://github-readme-stats.vercel.app/api?username=YusufLena&show_icons=true&theme=tokyonight "height="150"")
-  
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YusufLena&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
