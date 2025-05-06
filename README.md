@@ -2,11 +2,9 @@
 <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2dnMDBtbWk5enY2ZXJuOWJncXVhOGZqZ216NTViZDN4NWNxeGgwZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif">
 </div>
 
-<div align = "center">
 
-[![https://instagram.com/sealtilena](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)] ![https://www.linkedin.com/in/sealtiyusuflena/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![https://discord.com/channels/@autumleaf_](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![https://instagram.com/sealtilena](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.linkedin.com/in/sealtiyusuflena/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![https://discord.com/channels/@autumleaf_](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
-</div>
 
 <div align = "center">
 
