@@ -10,11 +10,6 @@
   <a href="https://www.linkedin.com/in/sealtiyusuflena/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Sealtiyusuflena">
   </a>
-  <p>Tambahkan saya di Discord: <b>NamaPengguna#1234</b></p>
-  <a href="https://discord.com/channels/@autumleaf_" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Autumleaf_">
-  </a>
-
 </div>
 
 <div align = "center">
